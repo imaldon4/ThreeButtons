@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Three Buttons</string>
+    <string name="button1">First Passage</string>
+    <string name="button2">Second Passage</string>
+    <string name="button3">Third Passage</string>
+    <string name="passage_text_1">Passage One</string>
+    <string name="passage_text_2">Passage two</string>
+    <string name="passage_text_3">Passage three</string>
+</resources>
